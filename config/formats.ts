@@ -26,6 +26,14 @@ export const Formats: FormatList = [
 		column: 1,
 		// name: "gen9petmods",
 	},
+		{
+		name: "[Gen 9] Rolamon",
+		threads: [
+			`rolamon`,
+		],
+		mod: 'rolamon',
+		ruleset: ['Standard', 'Terastal Clause', 'Data Mod', 'Sleep Moves Clause', '!Sleep Clause Mod'],
+	},
 	{
 		name: "[Gen 9] Alternatium EX",
 		desc: `<b>Alternatium EX</b>: A metagame made up of only Pokemon with alternate forms exist, with all of them being seperate and unique Pokemon.`,
